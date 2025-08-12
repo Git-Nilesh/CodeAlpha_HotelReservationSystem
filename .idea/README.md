@@ -29,7 +29,7 @@ CodeAlpha_HotelReservationSystem/
  │    └── HotelReservationSystemGUI.java
  └── README.md
 ```
-![Application Screenshot](images/viewrooms.png)
+![Application Screenshot](../images/viewrooms.png)
 
 📜 License
 
